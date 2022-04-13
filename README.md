@@ -10,7 +10,7 @@ The aim of this task is to provide our individual stakeholders with informations
 ## Results and Conclusion
 The results are listed in detail in the EDA.ipynb file. The structure of the EDA is as follows:
 
-## Understand the Data
+Understand the Data
 Data cleaning
 A presentation of the stakeholder and their needs/requirements.
 Hypotheses from the stakeholder
